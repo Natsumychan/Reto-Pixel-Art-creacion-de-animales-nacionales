@@ -5,7 +5,7 @@ Las imágenes son:
 -Lobo.
 -Cóndor.
 -Venado (Deer).
--león.
+-León.
 
 Y como imagen bonus está la figura de un perrito triste.
 
